@@ -1,0 +1,5 @@
+ extern const unsigned char GSDKVersionString[];
+ extern const double GSDKVersionNumber;
+
+ const unsigned char GSDKVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:GSDK  PROJECT:GSDK-1" "\n";
+ const double GSDKVersionNumber __attribute__ ((used)) = (double)1.;

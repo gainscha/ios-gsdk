@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'GSDK' in project 'GSDK' (no dependencies)
